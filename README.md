@@ -1,6 +1,5 @@
-# Question Answer Application using RAG Architecture 
+# Employee HR Question Answer Application using RAG Architecture 
 
-**Employee HR Q&A Application Using LLM and RAG**
 **Overview**
 
 This project involves the development of an Employee HR Q&A application utilizing a Large Language Model (LLM) and Retrieval-Augmented Generation (RAG) techniques. The application aims to enhance employee experience by providing quick and accurate responses to HR-related queries. It leverages LLM capabilities to generate human-like answers and RAG to retrieve relevant information from a knowledge base, ensuring that employees receive contextually appropriate and precise responses.
