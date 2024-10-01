@@ -1,4 +1,4 @@
-# Q-A-Application-using-RAG
+# Question Answer Application using RAG Architecture 
 
 **Employee HR Q&A Application Using LLM and RAG**
 **Overview**
